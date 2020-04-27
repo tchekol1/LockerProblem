@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff1e1180-d645-4784-a04a-f4abc05f9ad5" name="Default Changelist" comment="" />
+    <list default="true" id="ff1e1180-d645-4784-a04a-f4abc05f9ad5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lockerpropblem/LockerProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lockerpropblem/LockerProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LockerProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LockerProblem.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +22,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1b7qmv3bYh4fVfuJZBWJqgP5Cd3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="LockerProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -57,21 +67,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1218" height="166" key="GridCell.Tab.0.bottom" timestamp="1587996227425">
+    <state width="1218" height="166" key="GridCell.Tab.0.bottom" timestamp="1588013704217">
       <screen x="0" y="23" width="1280" height="711" />
     </state>
-    <state width="1218" height="166" key="GridCell.Tab.0.bottom/0.23.1280.711@0.23.1280.711" timestamp="1587996227425" />
-    <state width="1218" height="166" key="GridCell.Tab.0.center" timestamp="1587996227423">
+    <state width="1218" height="166" key="GridCell.Tab.0.bottom/0.23.1280.711@0.23.1280.711" timestamp="1588013704217" />
+    <state width="1218" height="166" key="GridCell.Tab.0.center" timestamp="1588013704215">
       <screen x="0" y="23" width="1280" height="711" />
     </state>
-    <state width="1218" height="166" key="GridCell.Tab.0.center/0.23.1280.711@0.23.1280.711" timestamp="1587996227423" />
-    <state width="1218" height="166" key="GridCell.Tab.0.left" timestamp="1587996227422">
+    <state width="1218" height="166" key="GridCell.Tab.0.center/0.23.1280.711@0.23.1280.711" timestamp="1588013704215" />
+    <state width="1218" height="166" key="GridCell.Tab.0.left" timestamp="1588013704215">
       <screen x="0" y="23" width="1280" height="711" />
     </state>
-    <state width="1218" height="166" key="GridCell.Tab.0.left/0.23.1280.711@0.23.1280.711" timestamp="1587996227422" />
-    <state width="1218" height="166" key="GridCell.Tab.0.right" timestamp="1587996227424">
+    <state width="1218" height="166" key="GridCell.Tab.0.left/0.23.1280.711@0.23.1280.711" timestamp="1588013704215" />
+    <state width="1218" height="166" key="GridCell.Tab.0.right" timestamp="1588013704216">
       <screen x="0" y="23" width="1280" height="711" />
     </state>
-    <state width="1218" height="166" key="GridCell.Tab.0.right/0.23.1280.711@0.23.1280.711" timestamp="1587996227424" />
+    <state width="1218" height="166" key="GridCell.Tab.0.right/0.23.1280.711@0.23.1280.711" timestamp="1588013704216" />
+    <state x="24" y="23" key="new project wizard" timestamp="1587996819393">
+      <screen x="0" y="23" width="1280" height="711" />
+    </state>
+    <state x="24" y="23" key="new project wizard/0.23.1280.711@0.23.1280.711" timestamp="1587996819393" />
   </component>
 </project>
